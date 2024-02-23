@@ -1,0 +1,23 @@
+h1 {
+    text-align: center;
+    color: white;
+  }
+
+  h2 {
+    text-align: center;
+    color: white;
+    font-size: 35px;
+  }
+  p{
+  text-align: center;
+  color: white;
+  font-size: 20px;
+}
+p1 {
+  text-align: center;
+  color: white;
+  font-size: 15px;
+}
+img{
+    border-radius: 15px;
+}
